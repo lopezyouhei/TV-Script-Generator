@@ -1,5 +1,8 @@
+# About the Project
+The project is one of the milestone projects offered in Udacity's nanodegree Deep Learning program. The goal of the project is to generate unseen scripts of the TV show Seinfeld. This is done by training an LSTM RNN model with scripts from the Seinfeld TV show. 
+
 # TV-Script-Generator
-The repository uses a type of RNN (LSTM) to learn from a script of Seinfeld and then generate an unseen script of the TV show Seinfeld. This is a project from the Udacity Nanodegree course Deep Learning.
+The repository uses a type of RNN (LSTM) to learn from a script of Seinfeld and then generate an unseen script of the TV show Seinfeld. 
 
 
 # Note
